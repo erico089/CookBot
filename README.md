@@ -14,5 +14,8 @@ CookBot is a project that aims to develop a culinary chatbot using sentence simi
 ## Disclaimer
 This chatbot isn't meant to work perfectly, its a project to evaluate and confirm the performance of sentence similarity in this kind of tasks
 
+## Flow chart
+![Flow of the conversation with the chatBot](Diagrams/FlowDiagramCookBotV1.png)
+
 ## Installation
 TODO
