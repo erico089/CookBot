@@ -19,3 +19,7 @@ This chatbot isn't meant to work perfectly, its a project to evaluate and confir
 
 ## Installation
 TODO
+
+## Demo version video (no web version)
+
+![Video](https://youtu.be/fJtUu6tHWkY)
