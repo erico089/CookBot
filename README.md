@@ -22,4 +22,4 @@ TODO
 
 ## Demo version video (no web version)
 
-![Video](https://youtu.be/fJtUu6tHWkY)
+[![Alt text](https://img.youtube.com/vi/configuroweb/0.jpg)](https://youtu.be/fJtUu6tHWkY?si=RDnHYffp393tDnp_)
